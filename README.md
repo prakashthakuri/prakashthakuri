@@ -3,6 +3,14 @@
 <br/>
 You can reach me at <a href="mailto:info@prakashthakuri.com" target= "_blank">E-mail </a>
 
+
+-----------
+
+<a href="https://spotify-playing.prakashthakuri.vercel.app/now-playing?open">
+    <img src="https://spotify-playing.prakashthakuri.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+-----------
+
 <!--
 **prakashthakuri/prakashthakuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +28,3 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://spotify-playing.prakashthakuri.vercel.app/now-playing?open">
-    <img src="https://spotify-playing.prakashthakuri.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
