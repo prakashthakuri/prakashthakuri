@@ -5,10 +5,10 @@ You can reach me at <a href="mailto:info@prakashthakuri.com" target= "_blank">E-
 
 
 -----------
+### Spotify Playing
+[<img src = "https://spotify-playing.prakashthakuri.vercel.app/api/spotify-playing" alt="Prakash Spotify Music" width= "350" />]
+(https://open.spotify.com/user/32iwdjtppqtmphgve0evb12vs?si=6gNPedc8QuqGUggQGnnAtw)
 
-<a href="https://spotify-playing-git-master.prakashthakuri.vercel.app/now-playing?open">
-    <img src="https://spotify-playing-git-master.prakashthakuri.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
 -----------
 
 <!--
