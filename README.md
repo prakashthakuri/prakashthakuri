@@ -6,8 +6,8 @@ You can reach me at <a href="mailto:info@prakashthakuri.com" target= "_blank">E-
 
 -----------
 ### Spotify Playing
-<a href="https://status.nmoo.dev/now-playing?open">
-    <img src="https://status.nmoo.dev/now-playing" width="256" height="64" alt="Now Playing">
+<a href="https://spotify-playing-two.vercel.appnow-playing?open">
+    <img src="spotify-playing-two.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
 -----------
