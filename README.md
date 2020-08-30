@@ -3,10 +3,8 @@
 <br/>
 You can reach me at <a href="mailto:info@prakashthakuri.com" target= "_blank">E-mail </a>
 
-### Play the Games I have created
 
-<iframe src="https://itch.io/embed/531206" height="167" width="552" frameborder="0"><a href="https://prakashthakuri.itch.io/gameoflife">GameofLife by prakashthakuri</a></iframe>
-
+<iframe src="https://itch.io/embed/506214?linkback=true" width="552" height="167" frameborder="0"><a href="https://prakashthakuri.itch.io/2019-mars-odyssey">2019 Mars Odyssey by prakashthakuri</a></iframe>
 
 -----------
 
