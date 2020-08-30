@@ -3,10 +3,9 @@
 <br/>
 You can reach me at <a href="mailto:info@prakashthakuri.com" target= "_blank">E-mail </a>
 
+------------------------
 
-<iframe src="https://itch.io/embed/506214?linkback=true" width="552" height="167" frameborder="0"><a href="https://prakashthakuri.itch.io/2019-mars-odyssey">2019 Mars Odyssey by prakashthakuri</a></iframe>
 
------------
 
 **Now Playing** on Spotify
 
