@@ -3,6 +3,10 @@
 <br/>
 You can reach me at <a href="mailto:info@prakashthakuri.com" target= "_blank">E-mail </a>
 
+### Play the Games I have created
+
+<iframe src="https://itch.io/embed/531206" height="167" width="552" frameborder="0"><a href="https://prakashthakuri.itch.io/gameoflife">GameofLife by prakashthakuri</a></iframe>
+
 
 -----------
 
