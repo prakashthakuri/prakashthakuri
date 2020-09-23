@@ -1,4 +1,5 @@
-### Hi there 👋 I am Prakash. I am a Software Engineer looking for the Full-time opportunities across United States and Germany. I have graduated from Pace University with Computer Science degree. Please look around my profile for the projects I have done so far.
+### Hi there 👋 I am Prakash. I am a Software Engineer looking for the Full-time opportunities across Germany. Please look around my profile for the projects I have done so far.
+
 
 <br/>
 You can reach me at <a href="mailto:info@prakashthakuri.com" target= "_blank">E-mail </a>
