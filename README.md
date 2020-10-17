@@ -1,4 +1,4 @@
-### Hi there 👋 I am Prakash. I am a Software Engineer looking for the Full-time opportunities across Germany. Please look around my profile for the projects I have done so far.
+### Hi there 👋 I am Prakash. I am a Software Engineer looking for the Full-time opportunities. Please look around my profile for the projects I have done so far.
 
 
 <br/>
