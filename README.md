@@ -1,4 +1,4 @@
-### Hi there 👋 I am Prakash. Welcome to my Profile. Please look around my profile for the projects I have done so far.
+### Hi there 👋 I am Prakash. Welcome to my Profile. Please look around my profile for the projects I have done so far. Currently I am working with The Home Depot at Austin, TX as Software Engineer.
 
 
 <br/>
