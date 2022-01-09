@@ -10,7 +10,7 @@ You can reach me at <a href="mailto:info@prakashthakuri.com" target= "_blank">E-
 
 **Now Playing** on Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=32iwdjtppqtmphgve0evb12vs&cover_image=true&theme=natemoo-re&bar_color=6cb14e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=32iwdjtppqtmphgve0evb12vs&cover_image=true&theme=novatorem&bar_color=6cb14e&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=32iwdjtppqtmphgve0evb12vs&redirect=true)
 
 -----------
 
