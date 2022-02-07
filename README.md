@@ -1,4 +1,4 @@
-### Hi there 👋 I am Prakash. Welcome to my Profile. Please look around my profile for the projects I have done so far. Currently I am working with The Home Depot at Austin, TX as Software Engineer.
+### Hi there 👋 I am Prakash. Welcome to my Profile. Please look around my profile for the projects I have done so far. Currently I am working with The Home Depot at Austin, TX as Senior Software Engineer.
 
 
 <br/>
@@ -8,7 +8,7 @@ You can reach me at <a href="mailto:info@prakashthakuri.com" target= "_blank">E-
 
 
 
-**Now Playing** on Spotify
+My Current **Mood** on Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=32iwdjtppqtmphgve0evb12vs&cover_image=true&theme=novatorem&bar_color=6cb14e&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=32iwdjtppqtmphgve0evb12vs&redirect=true)
 
