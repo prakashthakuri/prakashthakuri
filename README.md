@@ -2,7 +2,7 @@
 
 
 <br/>
-You can reach me at <a href="mailto:info@prakashthakuri.com" target= "_blank">E-mail </a>
+You can reach me at <a href="mailto:prakashthakuri2000@gmail.com" target= "_blank">E-mail </a>
 
 ------------------------
 
