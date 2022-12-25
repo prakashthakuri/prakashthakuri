@@ -1,5 +1,4 @@
-### Hi there 👋 I am Prakash. Welcome to my Profile. Please look around my profile for the projects I have done so far. Currently I am working with The Home Depot at Austin, TX as Senior Software Engineer.
-
+### Hi there 👋 
 
 <br/>
 You can reach me at <a href="mailto:prakashthakuri2000@gmail.com" target= "_blank">E-mail </a>
