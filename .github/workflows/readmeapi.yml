@@ -65,8 +65,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "royalboy.prakash@gmail.com"
+          git config --local user.name "prakashthakuri"
           git commit -am "Update README with API response" || true
           git push
 
