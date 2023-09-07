@@ -10,9 +10,8 @@ Feel free to personalize it further to make it uniquely yours!
 <br/>
 You can reach me at <a href="mailto:prakashthakuri2000@gmail.com" target= "_blank">E-mail </a>
 
-------------------------
 
-https://uselessfacts.jsph.pl/api/v2/facts/random
+------------------------
 
 Vibe with me!!
 
