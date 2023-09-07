@@ -12,9 +12,9 @@ You can reach me at <a href="mailto:prakashthakuri2000@gmail.com" target= "_blan
 
 ------------------------
 
+https://uselessfacts.jsph.pl/api/v2/facts/random
 
-
-My Current **Mood** on Spotify
+Vibe with me!!
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=32iwdjtppqtmphgve0evb12vs&cover_image=true&theme=novatorem&bar_color=6cb14e&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=32iwdjtppqtmphgve0evb12vs&redirect=true)
 
