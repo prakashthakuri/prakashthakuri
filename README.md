@@ -10,10 +10,6 @@ Feel free to personalize it further to make it uniquely yours!
 <br/>
 You can reach me at <a href="mailto:prakashthakuri2000@gmail.com" target= "_blank">E-mail </a>
 
-
-------------------------
-{"id":"0e8939433929027d62bad82817e01fe8","text":"Worcestershire sauce in essentially an Anchovy Ketchup.","source":"djtech.net","source_url":"http://www.djtech.net/humor/useless_facts.htm","language":"en","permalink":"https://uselessfacts.jsph.pl/api/v2/facts/0e8939433929027d62bad82817e01fe8"}
-
 Vibe with me!!
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=32iwdjtppqtmphgve0evb12vs&cover_image=true&theme=novatorem&bar_color=6cb14e&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=32iwdjtppqtmphgve0evb12vs&redirect=true)
